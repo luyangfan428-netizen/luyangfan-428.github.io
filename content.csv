@@ -1,0 +1,82 @@
+section,key,label,value
+site,meta_title,网页标题,陆洋帆 | 个人主页
+site,meta_description,网页描述,陆洋帆的个人主页，展示教育背景、项目经历、研究成果与个人能力。
+hero,eyebrow,首屏顶部标签,SHANGHAI JIAO TONG UNIVERSITY
+hero,name,姓名,陆洋帆
+hero,role,职业定位,德语系本科生 · 跨学科研究与项目实践
+hero,summary,首屏简介,目前就读于上海交通大学外国语学院德语系，关注语言、心理与多模态情绪感知相关议题，持续参与创新实践与研究项目。曾获本科生B等奖学金、杨咏曼奖学金、两次获评校级三好学生。
+hero,cta_primary_text,主按钮文字,查看项目
+hero,cta_primary_link,主按钮链接,#projects
+hero,cta_secondary_text,次按钮文字,联系我
+hero,cta_secondary_link,次按钮链接,mailto:luyangfan428@gmail.com
+hero,stat_1_label,首屏数据1标签,身份定位
+hero,stat_1_value,首屏数据1内容,23级上海交通大学本科生
+hero,stat_2_label,首屏数据2标签,院系
+hero,stat_2_value,首屏数据2内容,外国语学院德语系
+hero,stat_3_label,首屏数据3标签,研究输出
+hero,stat_3_value,首屏数据3内容,3项学术项目（1项待结项）、2 篇论文成果
+hero,photo_title,照片卡标题,个人照片
+hero,photo_hint,照片卡说明,可替换为真实照片，建议使用 4:5 纵向图片。
+about,section_eyebrow,区块英文标题,About
+about,section_title,区块主标题,基本信息
+about,section_desc,区块说明,当前学习背景与个人兴趣
+about,name_label,姓名标签,姓名
+about,name_value,姓名内容,陆洋帆
+about,school_label,学校标签,学校
+about,school_value,学校内容,上海交通大学
+about,grade_label,年级标签,年级
+about,grade_value,年级内容,23级本科生
+about,department_label,院系标签,院系
+about,department_value,院系内容,外国语学院德语系
+about,hobby_label,兴趣标签,兴趣爱好
+about,hobby_value,兴趣内容,书法、钢琴
+about,email_label,联系方式标签,联系方式
+about,email_value,联系方式内容,luyangfan428@gmail.com
+skills,section_eyebrow,区块英文标题,Capabilities
+skills,section_title,区块主标题,能力结构
+skills,section_desc,区块说明,通用能力与素养
+skills,group_1_title,能力组1标题,语言与学术表达
+skills,group_1_item_1,能力组1条目1,德语专业学习与语言理解
+skills,group_1_item_2,能力组1条目2,中英文学术阅读与文献整理
+skills,group_1_item_3,能力组1条目3,论文写作与研究内容表达
+skills,group_2_title,能力组2标题,研究与项目实践
+skills,group_2_item_1,能力组2条目1,跨学科研究问题梳理
+skills,group_2_item_2,能力组2条目2,项目推进与资料整合
+skills,group_2_item_3,能力组2条目3,多模态情绪研究相关参与经验
+skills,group_3_title,能力组3标题,审美与综合素养
+skills,group_3_item_1,能力组3条目1,书法训练带来的视觉节奏感
+skills,group_3_item_2,能力组3条目2,钢琴学习带来的长期专注与表达力
+skills,group_3_item_3,能力组3条目3,兼顾理性研究与感性表达的综合能力
+projects,section_eyebrow,区块英文标题,Projects
+projects,section_title,区块主标题,项目经历
+projects,section_desc,区块说明,3项校级学术项目
+projects,project_1_tag,项目1标签,Innovation
+projects,project_1_status,项目1状态,已结项
+projects,project_1_title,项目1标题,第二十八期“上海交通大学大学生创新实践计划”项目
+projects,project_1_desc,项目1说明,面向本科阶段的创新与研究训练，聚焦问题发现、资料梳理与项目执行，持续提升独立推进与系统表达能力。
+projects,project_2_tag,项目2标签,PRP
+projects,project_2_status,项目2状态,已结项
+projects,project_2_title,项目2标题,第四十六期 PRP 项目
+projects,project_2_desc,项目2说明,在项目协作中积累研究型任务的拆解与推进经验，强化了跨主题资料整合、输出组织与阶段性复盘能力。
+projects,project_3_tag,项目3标签,Chun-tsung
+projects,project_3_status,项目3状态,进行中
+projects,project_3_title,项目3标题,䇹政项目
+projects,project_3_desc,项目3说明,当前正在持续推进中，围绕既定目标展开研究与实践工作，保持稳定投入与阶段性迭代。
+publications,section_eyebrow,区块英文标题,Publications
+publications,section_title,区块主标题,论文成果
+publications,section_desc,区块说明,1篇期刊论文、1篇会议论文
+publications,paper_1_tag,成果1标签,Journal
+publications,paper_1_title,成果1标题,Current Psychology
+publications,paper_1_desc,成果1内容,"Lin, Y., Lu, Y., Ding, H., & Zhang, Y. (2025). Relative advantages of speech vs. nonspeech in emotion perception: Effects of emotional category and attentional focus."
+publications,paper_1_meta,成果1补充,SSCI indexed · Psychology Q1 · IF = 2.9
+publications,paper_2_tag,成果2标签,Conference
+publications,paper_2_title,成果2标题,Interspeech 2025
+publications,paper_2_desc,成果2内容,"Lin, Y., Ni, S., & Lu, Y. (2025). Age-related changes in multisensory integration of emotions in an audiovisual face-prosody-semantics Stroop task. In Proceedings of Interspeech 2025 (pp. 3344-3348)."
+publications,paper_2_meta,成果2补充,Conference Proceedings
+contact,section_eyebrow,区块英文标题,Contact
+contact,section_title,区块主标题,欢迎联系我
+contact,section_desc,区块说明,如果你希望围绕学术交流、项目合作或个人兴趣爱好进行进一步沟通，欢迎通过邮箱联系。
+contact,cta_primary_text,联系按钮文字,发送邮件
+contact,cta_primary_link,联系按钮链接,mailto:luyangfan428@gmail.com
+contact,cta_secondary_text,返回按钮文字,返回顶部
+contact,cta_secondary_link,返回按钮链接,#top
