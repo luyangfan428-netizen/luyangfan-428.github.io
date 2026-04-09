@@ -71,11 +71,12 @@
             <div class="portrait-card">
               <div class="portrait-card__frame">
                 <img
-                  class="portrait-card__image"
-                  src="./assets/profile-photo.jpg"
-                  alt="陆洋帆个人照片"
-                  data-src-field="hero.photo_src"
-                  data-alt-field="hero.photo_alt"
+                   class="portrait-card__image"
+                   src="./assets/profile-photo.jpg"
+                   alt="陆洋帆个人照片"
+                   data-src-field="hero.photo_src"
+                   data-alt-field="hero.photo_alt"
+                   onerror="if(!this.dataset.fallbackApplied){this.dataset.fallbackApplied='true';this.src='./assets/profile-photo.png';}"
                 />
               </div>
               <div class="portrait-card__meta">
